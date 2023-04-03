@@ -1,10 +1,12 @@
 <h1 align="center">Hi ❤️, I'm Joy Matubber</h1>
+<h2 align="center"> Software Engineer Trinee at Brain Station 23 </h1>
 <h4 align="center">Student at Compuer science and Engineer</h4>
 
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
+- 🌱 I’m currently Working Brain Station 23 As a Software Engineer Trinee
 - 🌱 I’m currently learning **Nest JS and Probelm Solving**
 
-- 📫 How to reach me **joy.matubber.41959@gmail.com**
+- 📫 How to reach me **joy.matubber@Brainstation-23.com**
 - 
 
 <h3 align="left">Connect with me:</h3>
