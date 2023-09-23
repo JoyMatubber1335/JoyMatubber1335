@@ -7,8 +7,6 @@
 
 - 📫 How to reach me **joy.matubber@Brainstation-23.com**
 - 📫 How to reach me **rana20-41959-1@gmail.com**
-<p>&nbsp;<img align="center" src="C:\Users\Asus\Desktop\CV For BS\Bs my card.png" alt="joymatubber" /></p>
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
