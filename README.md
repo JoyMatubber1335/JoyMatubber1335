@@ -1,5 +1,6 @@
 <h1 align="center">Hi ❤️, I'm Joy Matubber</h1>
 <h2 align="center"> Associate Software Engineer @ Brain Station 23 || Full Stack Developer </h1>
+</br>
 <h3> align="center"> Full Stack Developer </h3>
 <h4 align="center">Computer science and engineering</h4>
 
